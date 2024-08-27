@@ -31,13 +31,6 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Gradescope LTI 1.3",
-      "course": "wl.202510.AAE.25100.002",
-      "dueDate": "2024-08-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/826063",
-      "submitted": false
-    },
-    {
       "title": "Homework 1",
       "course": "wl.202510.AAE.25100.002",
       "dueDate": "2024-09-03T23:59:00",
