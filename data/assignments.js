@@ -53,15 +53,15 @@ assignments = {
       "title": "HW10W",
       "course": "MA.26600.116",
       "dueDate": "2024-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/826425",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826425/assignments/4951694/submissions/267895908",
+      "submitted": true
     },
     {
       "title": "HW12W",
       "course": "MA.26600.116",
       "dueDate": "2024-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/826425",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826425/assignments/4951734/submissions/267895680",
+      "submitted": true
     }
   ],
   "wl.202510.AAE.25100.002": [
