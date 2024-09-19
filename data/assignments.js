@@ -64,6 +64,43 @@ assignments = {
       "submitted": true
     }
   ],
+  "wl.202510.AAE.20300.002": [
+    {
+      "title": "Homework 0",
+      "course": "wl.202510.AAE.20300.002",
+      "dueDate": "2024-08-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/4724310/submissions/261681036",
+      "submitted": true
+    },
+    {
+      "title": "Homework 1",
+      "course": "wl.202510.AAE.20300.002",
+      "dueDate": "2024-08-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/4801661/submissions/262763248",
+      "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "wl.202510.AAE.20300.002",
+      "dueDate": "2024-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/4862555/submissions/264094537",
+      "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "wl.202510.AAE.20300.002",
+      "dueDate": "2024-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/4913393/submissions/265302544",
+      "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "wl.202510.AAE.20300.002",
+      "dueDate": "2024-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/4962395/submissions/268438009",
+      "submitted": true
+    }
+  ],
   "wl.202510.AAE.25100.002": [
     {
       "title": "Homework 0",
