@@ -161,7 +161,7 @@ assignments = {
     {
       "title": "Homework 4",
       "course": "wl.202510.AAE.25100.002",
-      "dueDate": "2024-09-26T23:59:00",
+      "dueDate": "2024-09-28T23:59:00",
       "link": "https://www.gradescope.com/courses/826063/assignments/5001673/submissions/270976573",
       "submitted": true
     }
