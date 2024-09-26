@@ -185,6 +185,20 @@ assignments = {
       "dueDate": "2024-09-28T23:59:00",
       "link": "https://www.gradescope.com/courses/826063/assignments/5001673/submissions/270976573",
       "submitted": true
+    },
+    {
+      "title": "ISA2",
+      "course": "wl.202510.AAE.25100.002",
+      "dueDate": "2024-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/826063",
+      "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "wl.202510.AAE.25100.002",
+      "dueDate": "2024-10-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/826063",
+      "submitted": false
     }
   ]
 };
