@@ -88,8 +88,8 @@ assignments = {
       "title": "HW17W",
       "course": "MA.26600.116",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/826425",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826425/assignments/5040546/submissions/274471811",
+      "submitted": true
     },
     {
       "title": "HW18W",
@@ -139,7 +139,7 @@ assignments = {
       "title": "Homework 5",
       "course": "wl.202510.AAE.20300.002",
       "dueDate": "2024-10-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/821372/assignments/5033155/submissions/274279559",
+      "link": "https://www.gradescope.com/courses/821372/assignments/5033155/submissions/274475414",
       "submitted": true
     }
   ],
@@ -197,8 +197,8 @@ assignments = {
       "title": "Homework 5",
       "course": "wl.202510.AAE.25100.002",
       "dueDate": "2024-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/826063",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826063/assignments/5047452/submissions/274472816",
+      "submitted": true
     }
   ]
 };
