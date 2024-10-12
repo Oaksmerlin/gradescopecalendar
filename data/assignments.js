@@ -160,8 +160,8 @@ assignments = {
       "title": "Homework 6",
       "course": "wl.202510.AAE.20300.002",
       "dueDate": "2024-10-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/821372",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821372/assignments/5106604/submissions/277336486",
+      "submitted": true
     },
     {
       "title": "Homework 7",
