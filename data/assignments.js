@@ -262,6 +262,13 @@ assignments = {
       "dueDate": "2024-10-22T23:59:00",
       "link": "https://www.gradescope.com/courses/826063/assignments/5156330/submissions/279917497",
       "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "wl.202510.AAE.25100.002",
+      "dueDate": "2024-10-29T16:56:00",
+      "link": "https://www.gradescope.com/courses/826063",
+      "submitted": false
     }
   ]
 };
