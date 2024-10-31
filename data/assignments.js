@@ -304,6 +304,13 @@ assignments = {
       "dueDate": "2024-10-29T23:59:00",
       "link": "https://www.gradescope.com/courses/826063/assignments/5210288/submissions/282532011",
       "submitted": true
+    },
+    {
+      "title": "ISA4",
+      "course": "wl.202510.AAE.25100.002",
+      "dueDate": "2024-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/826063",
+      "submitted": false
     }
   ]
 };
