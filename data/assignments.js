@@ -311,6 +311,13 @@ assignments = {
       "dueDate": "2024-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/826063",
       "submitted": false
+    },
+    {
+      "title": "Homework 8",
+      "course": "wl.202510.AAE.25100.002",
+      "dueDate": "2024-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/826063",
+      "submitted": false
     }
   ]
 };
