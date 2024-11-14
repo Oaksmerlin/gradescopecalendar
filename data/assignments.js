@@ -174,6 +174,41 @@ assignments = {
       "dueDate": "2024-11-08T23:59:00",
       "link": "https://www.gradescope.com/courses/826425/assignments/5274578/submissions/286928865",
       "submitted": true
+    },
+    {
+      "title": "HW32W",
+      "course": "MA.26600.116",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/826425",
+      "submitted": false
+    },
+    {
+      "title": "HW33W",
+      "course": "MA.26600.116",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/826425",
+      "submitted": false
+    },
+    {
+      "title": "HW34W",
+      "course": "MA.26600.116",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/826425",
+      "submitted": false
+    },
+    {
+      "title": "HW35W",
+      "course": "MA.26600.116",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/826425",
+      "submitted": false
+    },
+    {
+      "title": "HW36W",
+      "course": "MA.26600.116",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/826425",
+      "submitted": false
     }
   ],
   "wl.202510.AAE.20300.002": [
