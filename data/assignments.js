@@ -207,8 +207,8 @@ assignments = {
       "title": "HW36W",
       "course": "MA.26600.116",
       "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/826425",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826425/assignments/5324804/submissions/291315404",
+      "submitted": true
     }
   ],
   "wl.202510.AAE.20300.002": [
