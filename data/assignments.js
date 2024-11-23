@@ -193,8 +193,8 @@ assignments = {
       "title": "HW34W",
       "course": "MA.26600.116",
       "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/826425",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826425/assignments/5324799/submissions/292068348",
+      "submitted": true
     },
     {
       "title": "HW35W",
@@ -292,9 +292,9 @@ assignments = {
     {
       "title": "Homework 11",
       "course": "wl.202510.AAE.20300.002",
-      "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/821372",
-      "submitted": false
+      "dueDate": "2024-11-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/821372/assignments/5333359/submissions/292063119",
+      "submitted": true
     }
   ],
   "wl.202510.AAE.25100.002": [
