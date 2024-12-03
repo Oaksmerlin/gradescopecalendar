@@ -400,8 +400,8 @@ assignments = {
       "title": "ISA5",
       "course": "wl.202510.AAE.25100.002",
       "dueDate": "2024-12-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/826063",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826063/assignments/5354985/submissions/294177297",
+      "submitted": true
     }
   ]
 };
