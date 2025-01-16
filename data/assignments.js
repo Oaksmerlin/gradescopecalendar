@@ -4,15 +4,15 @@ assignments = {
       "title": "HW-1",
       "course": "ME-200 Division-7",
       "dueDate": "2025-01-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/953819",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953819/assignments/5600082/submissions/300195145",
+      "submitted": true
     },
     {
       "title": "HW-2",
       "course": "ME-200 Division-7",
       "dueDate": "2025-01-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/953819",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953819/assignments/5600083/submissions/300195298",
+      "submitted": true
     }
   ],
   "wl.202520.AAE.20400.004": [],
