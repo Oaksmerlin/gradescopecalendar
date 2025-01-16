@@ -1,4 +1,5 @@
 assignments = {
+  "CS 578": [],
   "ME-200 Division-7": [
     {
       "title": "HW-1",
