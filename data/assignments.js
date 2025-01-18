@@ -29,7 +29,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "wl.202520.AAE.20400.004": [],
+  "wl.202520.AAE.20400.004": [
+    {
+      "title": "Homework 1",
+      "course": "wl.202520.AAE.20400.004",
+      "dueDate": "2025-01-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/954562",
+      "submitted": false
+    }
+  ],
   "wl.202520.AAE.20401.019": [],
   "wl.202520.MA.30300.416": [
     {
