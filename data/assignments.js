@@ -54,6 +54,13 @@ assignments = {
       "dueDate": "2025-01-23T23:59:00",
       "link": "https://www.gradescope.com/courses/937343/assignments/5599307/submissions/300780551",
       "submitted": true
+    },
+    {
+      "title": "HW2",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
     }
   ]
 };
