@@ -59,13 +59,27 @@ assignments = {
       "title": "HW2",
       "course": "wl.202520.MA.30300.416",
       "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/937343",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937343/assignments/5645064/submissions/301561804",
+      "submitted": true
     },
     {
       "title": "HW3",
       "course": "wl.202520.MA.30300.416",
       "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW4",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-02-13T23:00:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW5",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-02-27T23:59:00",
       "link": "https://www.gradescope.com/courses/937343",
       "submitted": false
     }
