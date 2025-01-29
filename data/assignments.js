@@ -73,6 +73,20 @@ assignments = {
       "dueDate": "2025-01-24T23:59:00",
       "link": "https://www.gradescope.com/courses/955265/assignments/5641377/submissions/301266652",
       "submitted": true
+    },
+    {
+      "title": "Lab 1 Report",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-02-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
+    },
+    {
+      "title": "Lab 1 Peer Review",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-02-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
     }
   ],
   "wl.202520.MA.30300.416": [
