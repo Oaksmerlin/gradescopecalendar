@@ -67,8 +67,8 @@ assignments = {
       "title": "HW-9",
       "course": "ME-200 Division-7",
       "dueDate": "2025-02-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/953819",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953819/assignments/5694956/submissions/304662106",
+      "submitted": true
     }
   ],
   "wl.202520.AAE.20400.004": [
@@ -143,6 +143,48 @@ assignments = {
       "title": "HW5",
       "course": "wl.202520.MA.30300.416",
       "dueDate": "2025-02-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW6",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW7",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-03-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW8",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-04-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW9",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-04-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW10",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/937343",
+      "submitted": false
+    },
+    {
+      "title": "HW11",
+      "course": "wl.202520.MA.30300.416",
+      "dueDate": "2025-04-24T23:59:00",
       "link": "https://www.gradescope.com/courses/937343",
       "submitted": false
     }
