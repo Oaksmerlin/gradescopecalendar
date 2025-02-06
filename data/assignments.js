@@ -89,7 +89,7 @@ assignments = {
     {
       "title": "Homework 3",
       "course": "wl.202520.AAE.20400.004",
-      "dueDate": "2025-02-07T13:52:00",
+      "dueDate": "2025-02-07T23:59:00",
       "link": "https://www.gradescope.com/courses/954562",
       "submitted": false
     }
