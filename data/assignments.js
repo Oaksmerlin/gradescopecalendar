@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2025-01-31T23:59:00",
       "link": "https://www.gradescope.com/courses/954562/assignments/5668643/submissions/303664462",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "wl.202520.AAE.20400.004",
+      "dueDate": "2025-02-07T13:52:00",
+      "link": "https://www.gradescope.com/courses/954562",
+      "submitted": false
     }
   ],
   "wl.202520.AAE.20401.019": [
