@@ -189,7 +189,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW6",
+      "title": "Gradescope LTI 1.3",
       "course": "wl.202520.MA.30300.416",
       "dueDate": "2025-03-06T23:59:00",
       "link": "https://www.gradescope.com/courses/937343",
