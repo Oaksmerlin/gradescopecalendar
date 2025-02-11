@@ -150,6 +150,13 @@ assignments = {
       "dueDate": "2025-02-07T23:59:00",
       "link": "https://www.gradescope.com/courses/955265/assignments/5730156/submissions/306418391",
       "submitted": true
+    },
+    {
+      "title": "Lab 2 Report",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-02-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
     }
   ],
   "wl.202520.MA.30300.416": [
