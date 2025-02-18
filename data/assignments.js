@@ -192,6 +192,13 @@ assignments = {
       "dueDate": "2025-02-19T23:59:00",
       "link": "https://www.gradescope.com/courses/955265",
       "submitted": false
+    },
+    {
+      "title": "Pre-Lab 3",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-02-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
     }
   ],
   "wl.202520.MA.30300.416": [
