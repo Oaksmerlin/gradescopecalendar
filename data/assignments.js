@@ -146,8 +146,8 @@ assignments = {
       "title": "Homework 5",
       "course": "wl.202520.AAE.20400.004",
       "dueDate": "2025-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/954562",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/954562/assignments/5805060/submissions/310962415",
+      "submitted": true
     }
   ],
   "wl.202520.AAE.20401.019": [
@@ -197,8 +197,8 @@ assignments = {
       "title": "Pre-Lab 3",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/5806458/submissions/310955238",
+      "submitted": true
     }
   ],
   "wl.202520.MA.30300.416": [
