@@ -137,8 +137,8 @@ assignments = {
       "title": "HW-20",
       "course": "ME-200 Division-7",
       "dueDate": "2025-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/953819",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953819/assignments/5866392/submissions/314789999",
+      "submitted": true
     },
     {
       "title": "HW-21",
@@ -246,15 +246,15 @@ assignments = {
       "title": "Lab 3 Report",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-03-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/5843613/submissions/314786352",
+      "submitted": true
     },
     {
       "title": "Lab 3 Peer Review",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-03-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/5843619/submissions/314787795",
+      "submitted": true
     },
     {
       "title": "Pre-Lab 4",
