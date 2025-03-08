@@ -146,6 +146,27 @@ assignments = {
       "dueDate": "2025-03-07T23:59:00",
       "link": "https://www.gradescope.com/courses/953819/assignments/5866393/submissions/315124655",
       "submitted": true
+    },
+    {
+      "title": "HW-22",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-03-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
+    },
+    {
+      "title": "HW-23",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-03-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
+    },
+    {
+      "title": "HW-24",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-03-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
     }
   ],
   "wl.202520.AAE.20400.004": [
@@ -188,6 +209,13 @@ assignments = {
       "title": "Homework 6",
       "course": "wl.202520.AAE.20400.004",
       "dueDate": "2025-03-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/954562/assignments/5873620/submissions/315582060",
+      "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "wl.202520.AAE.20400.004",
+      "dueDate": "2025-03-14T23:59:00",
       "link": "https://www.gradescope.com/courses/954562",
       "submitted": false
     }
