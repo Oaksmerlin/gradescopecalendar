@@ -290,6 +290,20 @@ assignments = {
       "dueDate": "2025-03-07T23:59:00",
       "link": "https://www.gradescope.com/courses/955265",
       "submitted": false
+    },
+    {
+      "title": "Lab 4 Report",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-03-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
+    },
+    {
+      "title": "Lab 4 Peer Review",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-03-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
     }
   ],
   "wl.202520.MA.30300.416": [
