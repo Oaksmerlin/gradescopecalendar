@@ -216,8 +216,8 @@ assignments = {
       "title": "Homework 7",
       "course": "wl.202520.AAE.20400.004",
       "dueDate": "2025-03-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/954562",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/954562/assignments/5907874/submissions/317079272",
+      "submitted": true
     }
   ],
   "wl.202520.AAE.20401.019": [
