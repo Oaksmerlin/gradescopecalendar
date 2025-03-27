@@ -172,8 +172,8 @@ assignments = {
       "title": "HW-25",
       "course": "ME-200 Division-7",
       "dueDate": "2025-03-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/953819",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953819/assignments/5968905/submissions/320458412",
+      "submitted": true
     },
     {
       "title": "HW-26",
