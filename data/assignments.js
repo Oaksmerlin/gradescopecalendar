@@ -316,8 +316,8 @@ assignments = {
       "title": "Lab 4 Report",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-03-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/5914503/submissions/320264031",
+      "submitted": true
     },
     {
       "title": "Lab 4 Peer Review",
