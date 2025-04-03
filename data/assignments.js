@@ -360,6 +360,20 @@ assignments = {
       "dueDate": "2025-03-28T23:59:00",
       "link": "https://www.gradescope.com/courses/955265/assignments/5983922/submissions/320627977",
       "submitted": true
+    },
+    {
+      "title": "Lab 5 Report",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
+    },
+    {
+      "title": "Lab 5 Peer Review",
+      "course": "wl.202520.AAE.20401.019",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/955265",
+      "submitted": false
     }
   ],
   "wl.202520.MA.30300.416": [
@@ -416,8 +430,8 @@ assignments = {
       "title": "HW8",
       "course": "wl.202520.MA.30300.416",
       "dueDate": "2025-04-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/937343",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937343/assignments/5723413/submissions/322105725",
+      "submitted": true
     },
     {
       "title": "HW9",
