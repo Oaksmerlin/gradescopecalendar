@@ -202,6 +202,27 @@ assignments = {
       "dueDate": "2025-04-04T23:59:00",
       "link": "https://www.gradescope.com/courses/953819/assignments/5994306/submissions/322629691",
       "submitted": true
+    },
+    {
+      "title": "HW-30",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
+    },
+    {
+      "title": "HW-31",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
+    },
+    {
+      "title": "HW-32",
+      "course": "ME-200 Division-7",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/953819",
+      "submitted": false
     }
   ],
   "wl.202520.AAE.20400.004": [
