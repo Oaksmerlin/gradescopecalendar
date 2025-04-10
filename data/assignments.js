@@ -386,15 +386,15 @@ assignments = {
       "title": "Lab 5 Peer Review",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/6032393/submissions/324030382",
+      "submitted": true
     },
     {
       "title": "Lab 5 Report",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/6032701/submissions/324028547",
+      "submitted": true
     },
     {
       "title": "Pre-Lab 6",
