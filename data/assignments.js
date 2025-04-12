@@ -400,8 +400,8 @@ assignments = {
       "title": "Pre-Lab 6",
       "course": "wl.202520.AAE.20401.019",
       "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/955265",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/955265/assignments/6057515/submissions/324738946",
+      "submitted": true
     }
   ],
   "wl.202520.MA.30300.416": [
